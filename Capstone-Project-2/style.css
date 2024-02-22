@@ -1,0 +1,39 @@
+@font-face {
+  font-family: Luckybones-bold;
+  src: url("./assets/fonts/Luckybones-Bold.ttf");
+}
+
+@font-face {
+  font-family: Monterchi-Sans;
+  src: url("./assets/fonts/Monterchi-Sans-Book-trial.ttf");
+}
+
+.luckybones {
+  font-family: Luckybones-bold;
+}
+
+.monterchi {
+  font-family: Monterchi;
+}
+
+.hero {
+  text-align: end;
+  background-color: #517f89;
+}
+
+.carousel-button {
+  background-color: #517f89;
+}
+
+.c-2 {
+  color: white;
+}
+
+body {
+  background-color: #c7cdd6;
+}
+
+img {
+  background-color: #517f89;
+  border-radius: 30px;
+}
